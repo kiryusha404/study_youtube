@@ -64,6 +64,35 @@ nav{
 .advantadeges_item{
     width: 30%;
 }
+footer{
+    width: 100%;
+    height: auto;
+    background: #000;
+    margin: 0 auto;
+    text-align: center;
+    padding-top: 25px;
+}
+footer a{
+    color: #fff;
+    font-size: 14px;
+    margin-left: 10px;
+}
+footer p{
+    color: #fff;
+}
+footer nav a:hover{
+    border-bottom: 1px solid rgb(255, 255, 255);
+}
+.social img{
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+.social img:hover{
+    background: #494949;
+    border-radius: 50%;
+}
+
+
 
 
 
