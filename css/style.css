@@ -11,6 +11,9 @@ li{
 }
 body{
     font-family: 'Raleway', sans-serif;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
 }
 .logo{
     background: #000;
@@ -71,6 +74,7 @@ footer{
     margin: 0 auto;
     text-align: center;
     padding-top: 25px;
+    margin-top: auto;
 }
 footer a{
     color: #fff;
